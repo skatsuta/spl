@@ -14,7 +14,7 @@ $ spl $PATH
  8  /bin
  9  /usr/sbin
 10  /sbin
-13  /Users/skatsuta/.fzf/bin
+11  /Users/skatsuta/.fzf/bin
 ```
 
 ## Description
@@ -53,7 +53,7 @@ $ spl $PATH $GOPATH
  8  /bin
  9  /usr/sbin
 10  /sbin
-13  /Users/skatsuta/.fzf/bin
+11  /Users/skatsuta/.fzf/bin
 
 1  /Users/skatsuta
 ```
