@@ -53,7 +53,7 @@ func (cli *CLI) Run(args []string) int {
 	return ExitCodeOK
 }
 
-// split splits each element of args with delim and write to out.
+// split splits each element of args with a delimiter and write to output.
 func (cli *CLI) split(args []string) error {
 	for _, arg := range args {
 		elems := strings.Split(arg, cli.delim)
