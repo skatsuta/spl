@@ -1,5 +1,7 @@
 # spl
 
+ [![wercker status](https://app.wercker.com/status/d799f872500c49dd0f91696215d1b30f/s/master "wercker status")](https://app.wercker.com/project/bykey/d799f872500c49dd0f91696215d1b30f)
+
 Command-line splitter for strings. Mainly useful to show each element of `$PATH` separately.
 
 ```bash
